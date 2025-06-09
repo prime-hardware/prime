@@ -67,3 +67,4 @@ prime-hardware/
 - Uses Bootstrap 5 for styling
 - Includes a search functionality for products
 - Has a floating WhatsApp button for quick contact
+"# home" 
