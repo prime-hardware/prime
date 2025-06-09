@@ -68,3 +68,4 @@ prime-hardware/
 - Includes a search functionality for products
 - Has a floating WhatsApp button for quick contact
 "# home" 
+"# home" 
